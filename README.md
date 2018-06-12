@@ -20,7 +20,7 @@
 
 ## 二、架构
 
-![](https://github.com\yalinyee\quickguid-microservices-springcloud\images\construction.png)
+![](\quickguid-microservices-springcloud\images\construction.png)
 
 
 

@@ -20,7 +20,7 @@
 
 ## 二、架构
 
-![](..\quickguid-microservices-springcloud\images\construction.png)
+![](https://github.com\yalinyee\quickguid-microservices-springcloud\images\construction.png)
 
 
 
@@ -30,7 +30,7 @@
 
 微服务间调用图
 
-![](..\quickguid-microservices-springcloud\images\springcloud-openfeign.png)
+![](https://github.com\yalinyee\quickguid-microservices-springcloud\images\springcloud-openfeign.png)
 
 ### 第一步：配置中心搭建--Spring Cloud Config
 

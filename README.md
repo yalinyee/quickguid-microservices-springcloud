@@ -18,8 +18,6 @@
 
 - 暴露接口UI使用**Springfox-swagger-ui**
 
-  **githud代码地址：https://github.com/yalinyee/quickguid-microservices-springcloud.git**
-
 ## 二、架构
 
 ![](..\images\construction.png)

@@ -23,10 +23,7 @@
 ![](.\images\construction.png)
 
 
-
 ## 三、快速部署
-
-
 
 微服务间调用图
 

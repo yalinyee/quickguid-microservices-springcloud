@@ -20,7 +20,7 @@
 
 ## 二、架构
 
-![](..\images\construction.png)
+![](.\images\construction.png)
 
 
 
@@ -30,7 +30,7 @@
 
 微服务间调用图
 
-![](..\images\springcloud-openfeign.png)
+![](.\images\springcloud-openfeign.png)
 
 ### 第一步：配置中心搭建--Spring Cloud Config
 
